@@ -1,4 +1,4 @@
-# Começar devagar ou acelerado? — Análise Exploratória de Dados (Maratona de Boston 2015–2017)
+# Começar devagar ou acelerado? Uma análise Exploratória de Dados (Maratona de Boston 2015–2017)
 
 Projeto de análise exploratória de dados em Python que investiga o impacto da estratégia de ritmo (*pacing*) no desempenho de **79.038 corredores** da Maratona de Boston (edições de 2015, 2016 e 2017).
 
@@ -49,7 +49,7 @@ Os dados públicos utilizados estão disponíveis no Kaggle: [Boston Marathon Re
 
 Para reproduzir a análise:
 
-1. Baixe os três arquivos CSV (`marathon_results_2015.csv`, `marathon_results_2016.csv` e `marathon_results_2017.csv`).
-2. Abra o arquivo `Codigos/Analise_de_dados_em_python.ipynb` no **Google Colab**.
-3. Faça o upload dos três arquivos CSV para a sessão do Colab.
+1. Baixe os três arquivos CSV (`marathon_results_2015.csv`, `marathon_results_2016.csv` e `marathon_results_2017.csv`);
+2. Abra o arquivo `Análise Final/Analise_de_dados_em_python.ipynb` no **Google Colab**;
+3. Faça o upload dos três arquivos CSV para a sessão do Colab;
 4. No menu superior, clique em **Ambiente de execução > Executar tudo**.
